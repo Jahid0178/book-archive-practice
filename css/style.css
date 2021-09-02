@@ -1,7 +1,12 @@
+html {
+    overflow-x: hidden;
+}
 #spinner {
     display: none;
 }
 
 body {
-    background-color: #e2e2e2;
+    height: 100vh;
+    background: url(../images/book-bg.jpg) no-repeat center center / cover;
+    background-attachment: fixed;
 }
